@@ -156,11 +156,7 @@ Hermetis' system is structured around several key subsystems working in tandem:
 - **Remote Telemetry**: Adding real-time telemetry data output for monitoring flight status remotely.
 - **AI-Based Diagnostics**: Using machine learning techniques for detecting system anomalies and optimizing flight performance.
 
-## Conclusion
+## License
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Hermetis provides an autonomous solution for rocket launch management, integrating real-time sensor data, PID control, and safety mechanisms. It ensures precise control over flight parameters like altitude and velocity while maintaining the ability to handle hardware failures, errors, and extreme flight conditions. By ensuring both safety and performance, Hermetis is an effective system for autonomous launch control.
-
----
-
-**Hermetis** embodies the spirit of **Hermes**, the messenger of the gods who crossed boundaries and brought speed and precision to the task. The system shares these traits, enabling rockets to autonomously reach their targets in a controlled and efficient manner.
 
