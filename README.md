@@ -1,6 +1,6 @@
 # Hermetis - Autonomous Launch and Control System
 
-![https://main.st4lwolf.org/media/hermetis.jpeg](https://main.st4lwolf.org/media/hermetis.jpeg =400x400)
+![https://main.st4lwolf.org/media/hermetis.jpeg](https://main.st4lwolf.org/media/hermetis.jpeg)
 
 **⚠️ Disclaimer**:  
 This project is STRICTLY an educational and informational initiative. It is NOT intended for use in any real-world rocket launches, flight operations, or other practical applications. The code, designs, and associated materials are provided solely for educational purposes and are NOT meant to be deployed or used in any commercial or operational context.
@@ -11,6 +11,30 @@ This project is STRICTLY an educational and informational initiative. It is NOT 
   
 **Liability Waiver**:  
 The creators, contributors, and any associated parties are NOT RESPONSIBLE for any damages, losses, injuries, or liabilities resulting from the use or misuse of this project. You assume FULL responsibility for any actions or decisions taken based on the information provided here. Any attempt to apply this project in real-world situations is undertaken at YOUR OWN RISK. 
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Name Origin](#name-origin)
+- [Hardware Overview](#hardware-overview)
+  - [Microcontroller](#microcontroller)
+  - [Sensors](#sensors)
+  - [Motors and Actuators](#motors-and-actuators)
+  - [Power Management](#power-management)
+- [System Architecture](#system-architecture)
+  - [Initialization](#initialization)
+  - [Hardware Integrity Check](#hardware-integrity-check)
+  - [Launch Sequence](#launch-sequence)
+  - [Flight Control](#flight-control)
+  - [Low-Power Mode](#low-power-mode)
+- [System Specifications](#system-specifications)
+  - [Sensors](#sensors-1)
+  - [Motor Control](#motor-control)
+  - [Timing and Interrupts](#timing-and-interrupts)
+  - [Error Handling and Alerts](#error-handling-and-alerts)
+- [How It Works](#how-it-works)
+- [Future Improvements](#future-improvements)
+- [License](#license)
 
 ## Overview
 
