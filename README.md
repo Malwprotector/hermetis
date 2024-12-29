@@ -1,16 +1,16 @@
-# Hermetis - Autonomous Launch and Control System (for educational purposes ONLY, must NOT be used !!!)
+# Hermetis - Autonomous Launch and Control System
 
 ![https://main.st4lwolf.org/media/hermetis.jpeg](https://main.st4lwolf.org/media/hermetis.jpeg)
 
-> **Disclaimer**:  
-> This project is STRICTLY an educational and informational initiative. It is NOT intended for use in any real-world rocket launches, flight operations, or other practical applications. The code, designs, and associated materials are provided solely for educational purposes and are NOT meant to be deployed or used in any commercial or operational context.
->  
-> **⚠️​ Warning**:  
-> **⚠️​ Hermetis** is NOT designed for any real-world aerospace applications. It is a tool for educational purposes ONLY! Using this system in actual aerospace operations could lead to CATASTROPHIC FAILURE, SERIOUS INJURY, or LOSS OF LIFE. By accessing, using, or referring to this project, you explicitly acknowledge and agree that **Hermetis** is a learning tool and should NEVER be used in real-world operations.
->  
-> **⚠️​ Liability Waiver**:  
-> The creators, contributors, and any associated parties are NOT RESPONSIBLE for any damages, losses, injuries, or liabilities resulting from the use or misuse of this project. You assume FULL responsibility for any actions or decisions taken based on the information provided here. Any attempt to apply this project in real-world situations is undertaken at YOUR OWN RISK. 
->  
+**⚠️ Disclaimer**:  
+This project is STRICTLY an educational and informational initiative. It is NOT intended for use in any real-world rocket launches, flight operations, or other practical applications. The code, designs, and associated materials are provided solely for educational purposes and are NOT meant to be deployed or used in any commercial or operational context.>  
+
+**⚠️​ Warning**:  
+
+**⚠️​ Hermetis** is NOT designed for any real-world aerospace applications. It is a tool for educational purposes ONLY! Using this system in actual aerospace operations could lead to CATASTROPHIC FAILURE, SERIOUS INJURY, or LOSS OF LIFE. By accessing, using, or referring to this project, you explicitly acknowledge and agree that **Hermetis** is a learning tool and should NEVER be used in real-world operations.
+  
+**⚠️​ Liability Waiver**:  
+The creators, contributors, and any associated parties are NOT RESPONSIBLE for any damages, losses, injuries, or liabilities resulting from the use or misuse of this project. You assume FULL responsibility for any actions or decisions taken based on the information provided here. Any attempt to apply this project in real-world situations is undertaken at YOUR OWN RISK. 
 
 ## Overview
 
