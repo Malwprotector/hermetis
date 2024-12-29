@@ -1,6 +1,6 @@
 # Hermetis - Autonomous Launch and Control System
 
-![https://main.st4lwolf.org/media/hermetis.jpeg](https://main.st4lwolf.org/media/hermetis.jpeg)
+![https://main.st4lwolf.org/media/hermetis.jpeg](https://main.st4lwolf.org/media/hermetis.jpeg =400x400)
 
 **⚠️ Disclaimer**:  
 This project is STRICTLY an educational and informational initiative. It is NOT intended for use in any real-world rocket launches, flight operations, or other practical applications. The code, designs, and associated materials are provided solely for educational purposes and are NOT meant to be deployed or used in any commercial or operational context.
