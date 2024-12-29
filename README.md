@@ -38,7 +38,7 @@ The creators, contributors, and any associated parties are NOT RESPONSIBLE for a
 
 ## Overview
 
-**Hermetis** is an embedded control system designed to autonomously manage rocket launches. It integrates sensor readings, PID control loops, actuator management, and safety protocols to ensure a smooth and safe rocket flight. The system is responsible for monitoring the rocket's altitude, velocity, and motor status, as well as implementing real-time adjustments to maintain desired parameters throughout the flight. 
+**Hermetis** is an embedded control system designed to theoretically autonomously manage rocket launches. It integrates sensor readings, PID control loops, actuator management, and safety protocols to ensure a smooth and safe rocket flight. The system is responsible for monitoring the rocket's altitude, velocity, and motor status, as well as implementing real-time adjustments to maintain desired parameters throughout the flight. 
 
 The system can handle critical events like sensor malfunctions, control system instability, and energy conservation via low-power modes, making it reliable for high-stakes launch operations.
 
