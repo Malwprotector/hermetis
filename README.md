@@ -209,7 +209,11 @@ Hermetis' system is structured around several key subsystems working in tandem:
 - **Advanced Control Algorithms**: Implement more advanced algorithms like adaptive PID or model-based predictive control.
 - **Expanded Sensor Suite**: Integration of additional sensors such as gyroscopes, accelerometers, or magnetometers for enhanced flight stability.
 - **Remote Telemetry**: Adding real-time telemetry data output for monitoring flight status remotely.
-- **AI-Based Diagnostics**: Using machine learning techniques for detecting system anomalies and optimizing flight performance.
+- **Powerfull Diagnostics**: Using machine learning techniques for detecting system anomalies and optimizing flight performance.
+
+## Acknowledgement
+- The 4 images at the top of the page (the two logos and the two images showing ships in space) were generated using the [deepai.org website.](https://deepai.org/).
+- The diagrams were created using the `<code>graphviz</code>` python library.
 
 ## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
