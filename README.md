@@ -51,9 +51,13 @@ You assume FULL and EXCLUSIVE responsibility for any consequences of attempting 
 
 ## Overview
 
+![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/system_workflow.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/system_workflow.png)
+
 **Hermetis** is an embedded control system designed to theoretically autonomously manage rocket launches. It integrates sensor readings, PID control loops, actuator management, and safety protocols to ensure a smooth and safe rocket flight. The system is responsible for monitoring the rocket's altitude, velocity, and motor status, as well as implementing real-time adjustments to maintain desired parameters throughout the flight. 
 
 The system can handle critical events like sensor malfunctions, control system instability, and energy conservation via low-power modes, making it reliable for high-stakes launch operations.
+
+![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/hermetis_system_architecture.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/hermetis_system_architecture.png)
 
 ### Features
 
@@ -76,6 +80,7 @@ The name **Hermetis** is derived from **Hermes**, the Greek god associated with 
 - **Architecture**: ARM Cortex-M based microcontroller
 - **Clock Frequency**: Typically 72 MHz (for STM32F4 series)
 - **Peripheral Support**: ADC, GPIO, Timers, Interrupts, UART (for communication)
+![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/mcu.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/mcu.png)
 
 ### Sensors
 - **Altitude Sensor**: A high-precision barometric sensor (e.g., MS5611) with a resolution of up to 0.01m.
@@ -85,20 +90,25 @@ The name **Hermetis** is derived from **Hermes**, the Greek god associated with 
 - **Velocity Sensor**: A velocity sensor (e.g., GPS module with Doppler shift or accelerometer) with integration for velocity measurement.
   - **Range**: 0 to 2000 m/s
   - **Accuracy**: ±0.5 m/s
+![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/sensors.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/sensors.png)
 
 ### Motors and Actuators
 - **Main Engine Motors**: Controlled through PWM (Pulse Width Modulation) signals for precise thrust control.
   - **Motor Power**: 0 to 255 (8-bit resolution)
   - **Control**: GPIO for on/off state and PWM for motor speed adjustment
 - **Alert Mechanism**: GPIO pin connected to an LED or buzzer to signal alerts.
+![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/motor_control.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/motor_control.png)
 
 ### Power Management
 - **Power Supply**: 3.3V or 5V from a dedicated power source (battery or onboard power system).
 - **Energy Consumption Monitoring**: Tracks real-time power usage with energy consumption rates.
   - **Energy Consumption Rate**: 100 units per time tick (arbitrary scale)
 - **Low Power Mode**: The system enters low-power mode using the `WFI` (Wait For Interrupt) instruction when no critical operations are required.
+![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/power_system.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/power_system.png)
 
 ## System Architecture
+
+![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/system_workflow.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/system_workflow.png)
 
 Hermetis' system is structured around several key subsystems working in tandem:
 
@@ -157,6 +167,7 @@ Hermetis' system is structured around several key subsystems working in tandem:
 - **Sensor Errors**: If sensor data is invalid (e.g., out of range), the system triggers an alert.
 - **Motor Errors**: If motor status indicates failure (e.g., motors not responding), an alert is triggered.
 - **Alert Mechanism**: Can activate a buzzer or LED to signal a failure.
+![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/alert_mechanism.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/alert_mechanism.png)
 
 ## How It Works
 
