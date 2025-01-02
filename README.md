@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/logo2.jpeg" width="200" height="200" style="border-radius: 50%;" />
   <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/artist_view1.jpeg" width="200" height="200" style="border-radius: 50%;" />
   <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/artist_view2.jpeg" width="200" height="200" style="border-radius: 50%;" />
-  <br><i>Note: The last two images show artistic AI-generated views of the ship in space, and are not actual photos.</i>
+  <br><i>Note: The last two images show artistic views of the ship in space, and are not actual photos.</i>
 </p>
 
 
@@ -60,7 +60,7 @@ You assume FULL and EXCLUSIVE responsibility for any consequences of attempting 
 
 ![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/system_workflow.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/system_workflow.png)
 
-**Hermetis** is an embedded control system designed to theoretically autonomously manage rocket launches. It integrates sensor readings, PID control loops, actuator management, and safety protocols to ensure a smooth and safe rocket flight. The system is responsible for monitoring the rocket's altitude, velocity, and motor status, as well as implementing real-time adjustments to maintain desired parameters throughout the flight. 
+**Hermetis** is an embedded control system designed to theoretically autonomously manage rocket launches. This project is written in assembly. It integrates sensor readings, PID control loops, actuator management, and safety protocols to ensure a smooth and safe rocket flight. The system is responsible for monitoring the rocket's altitude, velocity, and motor status, as well as implementing real-time adjustments to maintain desired parameters throughout the flight. 
 
 The system can handle critical events like sensor malfunctions, control system instability, and energy conservation via low-power modes, making it reliable for high-stakes launch operations.
 
