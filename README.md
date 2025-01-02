@@ -213,7 +213,7 @@ Hermetis' system is structured around several key subsystems working in tandem:
 
 ## Acknowledgement
 - The 4 images at the top of the page (the two logos and the two images showing ships in space) were generated using the [deepai.org website.](https://deepai.org/).
-- The diagrams were created using the `<code>graphviz</code>` python library.
+- The diagrams were created using the `graphviz` python library.
 
 ## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
