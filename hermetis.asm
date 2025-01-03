@@ -1,4 +1,4 @@
-    .section .data               // Start of the data section (variables) 
+    .section .data               // Start of the data section (variables)
     
     // Sensor variables
     altitude_sensor_address:     .word 0x40012410        // Address of the altitude sensor
