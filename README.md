@@ -55,6 +55,8 @@ You assume FULL and EXCLUSIVE responsibility for any consequences of attempting 
 - [How It Works](#how-it-works)
 - [Future Improvements](#future-improvements)
 - [License](#license)
+- [Acknowledgement](#acknowledgement)
+- - [Contact](#contact)
 
 ## Overview
 
@@ -217,5 +219,8 @@ Hermetis' system is structured around several key subsystems working in tandem:
 
 ## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+## Contact
+If you need to contact me for any reason, please go to [my contact page.](https://main.st4lwolf.org/contacts)
 
 
