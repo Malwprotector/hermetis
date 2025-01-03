@@ -1,4 +1,5 @@
-# Here is the python script used to generate the graphics in the README.md file.
+# I used this python script to generate the graphics of the Hermetis components in the README.md file. 
+# I've put it on the repository, in case you need it!
 from graphviz import Digraph
 
 def create_subsystem_graph(name, nodes, edges, filename):
