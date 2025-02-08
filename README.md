@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/logo2.jpeg" width="200" height="200" style="border-radius: 50%;" />
  <!-- <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/artist_view1.jpeg" width="200" height="200" style="border-radius: 50%;" />-->
   <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/artist_view2.jpeg" width="200" height="200" style="border-radius: 50%;" />
-  <br><i>Note: The last two images show artistic views of the ship in space, and are not actual photos.</i>
+  <br><i>Note: The last image show artistic view of the system in space, and are not real photos !</i>
 </p>
 
 
@@ -211,10 +211,10 @@ Hermetis' system is structured around several key subsystems working in tandem:
 - **Advanced Control Algorithms**: Implement more advanced algorithms like adaptive PID or model-based predictive control.
 - **Expanded Sensor Suite**: Integration of additional sensors such as gyroscopes, accelerometers, or magnetometers for enhanced flight stability.
 - **Remote Telemetry**: Adding real-time telemetry data output for monitoring flight status remotely.
-- **Powerfull Diagnostics**: Using machine learning techniques for detecting system anomalies and optimizing flight performance.
+- **Powerfull Diagnostics**: Using machine learning techniques for detecting system anomalies and optimizing flight performance ?
 
 ## Acknowledgement
-- The 4 images at the top of the page (the two logos and the two images showing ships in space) were generated using the [deepai.org website.](https://deepai.org/).
+- The 3 images at the top of the page (the two logos and the two images showing ships in space) were generated using the [deepai.org website.](https://deepai.org/).
 - The diagrams were created using the `graphviz` python library.
 
 ## License
