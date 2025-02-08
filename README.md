@@ -62,7 +62,7 @@ You assume FULL and EXCLUSIVE responsibility for any consequences of attempting 
 
 ![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/system_workflow.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/system_workflow.png)
 
-**Hermetis** is an embedded control system designed to theoretically autonomously manage rocket launches. This project is written in assembly. It integrates sensor readings, PID control loops, actuator management, and safety protocols to ensure a smooth and safe rocket flight. The system is responsible for monitoring the rocket's altitude, velocity, and motor status, as well as implementing real-time adjustments to maintain desired parameters throughout the flight. 
+Bearing in mind that this project was made for learning purposes and probably contains a huge number of errors, **Hermetis** is an embedded control system designed to theoretically manage rocket launches and navigation. This project is written in assembly. It integrates sensor readings, PID control loops, actuator management, and safety protocols to ensure a smooth and safe rocket flight. The system is responsible for monitoring the rocket's altitude, velocity, and motor status, as well as implementing real-time adjustments to maintain desired parameters throughout the flight. 
 
 The system can handle critical events like sensor malfunctions, control system instability, and energy conservation via low-power modes, making it reliable for high-stakes launch operations.
 
@@ -223,7 +223,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 ## Contact
 If you need to contact me for any reason, please go to [my contact page.](https://main.st4lwolf.org/contacts)
 
-I would add to that that the space domain is a very complex domain and is not one of the skills that I have mastered, so although I have tried to provide explanations and an accurate code, I have very probably made a lot of mistakes in my code and in my explanations.
+I would add to that that the space domain is a very complex domain and is not one of the skills that I have mastered, so although I have tried to provide explanations and an accurate code, I have very probably made a HUGE number of errors in the code, this projects and in the explanations.
 Nevertheless, this project has enabled me to learn more.
 
 
