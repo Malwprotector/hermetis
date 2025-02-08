@@ -223,4 +223,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 ## Contact
 If you need to contact me for any reason, please go to [my contact page.](https://main.st4lwolf.org/contacts)
 
+I would add to that that the space domain is a very complex domain and is not one of the skills that I have mastered, so although I have tried to provide explanations and an accurate code, I have very probably made a lot of mistakes in my code and in my explanations.
+Nevertheless, this project has enabled me to learn more.
+
 
