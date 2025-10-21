@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/logo2.jpeg" width="200" height="200" style="border-radius: 50%;" />
  <!-- <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/artist_view1.jpeg" width="200" height="200" style="border-radius: 50%;" />-->
-  <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/artist_view2.jpeg" width="200" height="200" style="border-radius: 50%;" />
-  <br><i>Note: The last image show artistic view of the system in space, and are not real photos !</i>
 </p>
 
 
@@ -213,7 +211,6 @@ Hermetis' system is structured around several key subsystems working in tandem:
 - **Powerfull Diagnostics**: Using machine learning techniques for detecting system anomalies and optimizing flight performance ?
 
 ## Acknowledgement
-- The 3 images at the top of the page (the two logos and the two images showing ships in space) were generated using the [deepai.org website.](https://deepai.org/).
 - The diagrams were created using the `graphviz` python library.
 
 ## License
