@@ -1,7 +1,6 @@
 # Hermetis - Autonomous Launch and Control System
 
 <p align="center">
-  <img src="https://main.st4lwolf.org/media/hermetis.jpeg" width="200" height="200" style="border-radius: 50%;" />
   <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/logo2.jpeg" width="200" height="200" style="border-radius: 50%;" />
  <!-- <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/artist_view1.jpeg" width="200" height="200" style="border-radius: 50%;" />-->
   <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/artist_view2.jpeg" width="200" height="200" style="border-radius: 50%;" />
