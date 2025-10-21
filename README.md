@@ -5,7 +5,7 @@
  <!-- <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/artist_view1.jpeg" width="200" height="200" style="border-radius: 50%;" />-->
 </p>
 
-*Note : This project was previously licensed under CC BY-NC-SA 4.0. It is now released under the Apache License 2.0.*
+*This project was previously licensed under CC BY-NC-SA 4.0. It is now released under the Apache License 2.0.*
 
 
 **⚠️ Disclaimer**:  
