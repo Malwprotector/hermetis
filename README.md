@@ -62,9 +62,9 @@ You assume FULL and EXCLUSIVE responsibility for any consequences of attempting 
 
 ![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/system_workflow.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/system_workflow.png)
 
-Bearing in mind that this project was made for learning purposes and probably contains a huge number of errors, **Hermetis** is an embedded control system designed to theoretically manage rocket launches and navigation. This project is written in assembly. It integrates sensor readings, PID control loops, actuator management, and safety protocols to ensure a smooth and safe rocket flight. The system is responsible for monitoring the rocket's altitude, velocity, and motor status, as well as implementing real-time adjustments to maintain desired parameters throughout the flight. 
+Bearing in mind that this project was made for learning purposes and probably contains a huge number of errors, **Hermetis** is an embedded control system designed to **theoretically** manage rocket launches and navigation. This project is written in assembly. It integrates sensor readings, PID control loops, actuator management, and safety protocols. The system monitors rocket altitude, velocity, and motor status, as well as implementing real-time adjustments to maintain desired parameters throughout the flight. 
 
-The system can handle critical events like sensor malfunctions, control system instability, and energy conservation via low-power modes, making it reliable for high-stakes launch operations.
+The system can handle events like sensor malfunctions, control system instability, and energy conservation via low-power modes.
 
 ![https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/hermetis_system_architecture.png](https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/hermetis_system_architecture.png)
 
