@@ -6,8 +6,6 @@
  <!-- <img src="https://raw.githubusercontent.com/Malwprotector/hermetis/refs/heads/main/media/artist_view1.jpeg" width="200" height="200" style="border-radius: 50%;" />-->
 </p>
 
-*This project was previously licensed under CC BY-NC-SA 4.0. It is now released under the Apache License 2.0.*
-
 
 **⚠️ Disclaimer**:  
 This project is STRICTLY and EXCLUSIVELY an educational and informational resource. It is NOT intended for, nor suitable for, ANY real-world application, including but not limited to rocket launches, flight operations, aerospace engineering, or any related practical use. The materials (including but not limited to code, designs, and documentation) are provided **AS IS** and must not be applied, implemented, or adapted in any form outside of a controlled, educational setting.  
